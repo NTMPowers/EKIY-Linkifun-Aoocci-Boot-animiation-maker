@@ -56,8 +56,8 @@ Format for logo.bmp is 256-colors BMP, 720 x 1440 pixels.
 
 <div style="text-align:center; margin:0; padding:0;">
   <img src="logo.bmp"
-       alt="logo.bmp preview rotated 90 degrees left"
-       style="transform: rotate(-90deg); width: 256px; height: auto; image-rendering: pixelated; display:block; margin:0 auto;" />
+       alt="KTM 390 Adventure"
+       style="width: 256px; height: auto; image-rendering: pixelated; display:block; margin:0 auto;" />
 </div>
 
 ## Flashing Instructions
